@@ -1,0 +1,7 @@
+{
+    "rules": {
+        "alpha-value-notation": "number",
+        "selector-type-case": "lower",
+        "colo-no-hex": true
+    }
+}
